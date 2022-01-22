@@ -1,3 +1,3 @@
 # Game-REALity-
 ---
-Video Game in development
+Upcoming Video Game in development
